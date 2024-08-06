@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyD0VxTeeTvjGIoJAZs_OvKFCGPYTQZFcug</string>
+	<key>GCM_SENDER_ID</key>
+	<string>605349195749</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.canadore.newsapp4.newsapp4</string>
+	<key>PROJECT_ID</key>
+	<string>newsapp-9bb11</string>
+	<key>STORAGE_BUCKET</key>
+	<string>newsapp-9bb11.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:605349195749:ios:ed147ea42d90d06a05490c</string>
+</dict>
+</plist>
